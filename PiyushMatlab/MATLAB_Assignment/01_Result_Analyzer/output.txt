@@ -1,0 +1,11 @@
+===== Student Result Analyzer =====
+Input marks   : 84 57 112 33 69 -8 91 26 75 48 150 62 
+Valid marks   : 84 57 33 69 91 26 75 48 62 
+Ignored marks : 112 -8 150 
+Pass condition: mark >= 40
+Total         : 545
+Average       : 60.56
+Highest       : 91
+Lowest        : 26
+Pass count    : 7
+Fail count    : 2

@@ -1,0 +1,7 @@
+===== Function-based Search Report =====
+Array from numbers.txt: 12 5 33 8 5 21 17 5 40 9 5 26 
+
+Target   First index  Occurrences  Remark
+5        2            4            Found
+21       6            1            Found
+50       -1           0            Not found

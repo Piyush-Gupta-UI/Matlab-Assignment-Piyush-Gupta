@@ -1,0 +1,19 @@
+===== Array Summary Function =====
+
+Positive array: 17 4 26 9 13 
+  Total   = 69
+  Average = 13.80
+  Minimum = 4
+  Maximum = 26
+
+All-negative array: -12 -5 -30 -8 -19 
+  Total   = -74
+  Average = -14.80
+  Minimum = -30
+  Maximum = -5
+
+Mixed array: 7 -3 0 15 -11 6 
+  Total   = 14
+  Average = 2.33
+  Minimum = -11
+  Maximum = 15

@@ -1,0 +1,8 @@
+===== Number Digit Report =====
+Number          : 48284
+Number of digits: 5
+Sum of digits   : 26
+Even digits     : 5
+Odd digits      : 0
+Reversed number : 48284
+Palindrome      : Yes

@@ -1,0 +1,13 @@
+===== Student Result Report =====
+Pass rule: every subject >= 40
+
+Roll      S1    S2    S3    S4   Total  Average  Status
+----------------------------------------------------------
+101       72    65    80    58     275    68.75  Pass
+102       45    38    52    61     196    49.00  Fail
+103       88    91    79    94     352    88.00  Pass
+104       33    41    29    50     153    38.25  Fail
+105       60    57    66    71     254    63.50  Pass
+106       92    85    40    77     294    73.50  Pass
+
+Students: 6   Passed: 4   Failed: 2

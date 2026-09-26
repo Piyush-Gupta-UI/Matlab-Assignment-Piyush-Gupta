@@ -1,0 +1,4 @@
+===== Second Largest Distinct Value =====
+Input array    : 23 67 14 67 51 23 88 88 39 51 
+Largest value  : 88
+Second largest distinct value: 67

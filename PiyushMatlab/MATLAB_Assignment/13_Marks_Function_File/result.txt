@@ -1,0 +1,9 @@
+===== Marks Analysis Report =====
+All input marks : 67 92 -12 38 74 120 55 29 81 101 46 
+Valid marks     : 67 92 38 74 55 29 81 46 
+Invalid (ignored): -12 120 101 
+Valid count     : 8
+Average         : 60.25
+Highest         : 92
+Pass count (>=40): 6
+Fail count      : 2

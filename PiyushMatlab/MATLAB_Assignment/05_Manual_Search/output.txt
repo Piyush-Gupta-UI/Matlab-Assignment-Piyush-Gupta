@@ -1,0 +1,9 @@
+===== Manual Search Report =====
+Array: 16 4 27 9 27 13 27 5 9 
+
+Search value : 27
+First position (1-based): 3
+Total occurrences      : 3
+
+Search value : 40
+Result       : Value 40 is not present in the array.

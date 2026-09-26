@@ -1,0 +1,30 @@
+==========================================
+   INTEGRATED STUDENT RECORD - REPORT
+==========================================
+Source file       : student_marks.txt
+Marks read        : 12
+Valid marks (10)   : 82 57 94 36 71 49 88 63 25 77 
+Invalid marks (2) : 108 -6 
+(Valid range is 0-100; invalid marks are excluded from all calculations.)
+
+Student-wise status:
+  Student  1 :    82  Pass
+  Student  2 :    57  Pass
+  Student  3 :    94  Pass
+  Student  4 :    36  Fail
+  Student  5 :    71  Pass
+  Student  6 :    49  Pass
+  Student  7 :    88  Pass
+  Student  8 :    63  Pass
+  Student  9 :    25  Fail
+  Student 10 :    77  Pass
+
+------------- Summary -------------
+Total          : 642
+Average        : 64.20
+Highest        : 94
+Lowest         : 25
+Pass count     : 8 (pass mark 40)
+Fail count     : 2
+Pass percentage: 80.00%
+Overall result : Good (at least 75% passed)

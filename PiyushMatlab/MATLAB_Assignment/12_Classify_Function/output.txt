@@ -1,0 +1,11 @@
+===== Array Classification Comparison =====
+Array A: 3 -8 0 12 -5 7 20 0 
+Array B: -14 9 -1 0 6 -22 11 2.5 
+
+Category    Array A  Array B   Comparison
+--------------------------------------------
+Positive          4        4   Equal
+Negative          2        3   B has more
+Zero              2        1   A has more
+Even              5        4   A has more
+Odd               3        3   Equal

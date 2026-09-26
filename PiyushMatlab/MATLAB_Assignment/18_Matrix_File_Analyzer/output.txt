@@ -1,0 +1,16 @@
+===== Matrix File Analysis =====
+Matrix read from matrix.txt (4x4):
+    14    -3    22     7
+     5    19    -8    11
+   -12     6    16    25
+     9     0    13    -4
+
+Overall maximum: 25 at Row 3, Column 4
+Overall minimum: -12 at Row 3, Column 1
+
+Row 1 sum: 40
+Row 2 sum: 27
+Row 3 sum: 35
+Row 4 sum: 18
+
+Row with highest sum: Row 1 (sum = 40)

@@ -1,0 +1,11 @@
+===== Array Classification =====
+Array            : 14 -6 0 9 -11 3.5 0 22 -7 5 -2 17 
+Positive count   : 6
+Negative count   : 4
+Zero count       : 2
+Even integers    : 6
+Odd integers     : 5
+Non-integers     : 1 (not classified as even/odd)
+Sum of positives : 70.5
+Sum of negatives : -26
+Highest category : Positive (6 values)

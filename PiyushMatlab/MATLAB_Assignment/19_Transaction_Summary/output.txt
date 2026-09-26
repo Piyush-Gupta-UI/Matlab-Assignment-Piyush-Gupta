@@ -1,0 +1,30 @@
+===== Mini Transaction Summary =====
+Transactions read       : 17
+--------------------------------------
+No.   Amount      Type
+1      1500.00   Credit
+2      -420.00   Debit
+3         0.00   No change
+4      2750.00   Credit
+5     -1200.00   Debit
+6       350.00   Credit
+7       -85.00   Debit
+8         0.00   No change
+9      5000.00   Credit
+10    -3100.00   Debit
+11      640.00   Credit
+12     -260.00   Debit
+13     1800.00   Credit
+14     -950.00   Debit
+15        0.00   No change
+16      425.00   Credit
+17    -1575.00   Debit
+--------------------------------------
+Total credits           : 12465.00
+Total debits            : 7590.00
+Net balance             : 4875.00
+Credit transactions     : 7
+Debit transactions      : 7
+No-change transactions  : 3
+Largest credit          : 5000.00
+Largest debit magnitude : 3100.00

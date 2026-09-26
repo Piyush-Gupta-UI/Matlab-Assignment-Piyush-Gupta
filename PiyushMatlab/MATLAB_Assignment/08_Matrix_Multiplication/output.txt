@@ -1,0 +1,10 @@
+===== Validated Matrix Multiplication =====
+
+Case 1: A is 2x3, B is 3x2
+Manual product (2x2):
+    20    13
+    23    23
+Manual result matches built-in A*B: YES
+
+Case 2: A is 2x3, B is 2x2
+Multiplication NOT possible: columns of A (3) ~= rows of B (2).
